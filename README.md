@@ -1,4 +1,3 @@
-# Day 3
-Day 3 Exercises
+# 3.-Control-Flow-and-Logical-Operators
 Leap Year
 Multiple-If statements
